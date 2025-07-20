@@ -4,7 +4,7 @@
 
 ## 💼 What I Do
 - 🔧 Full-Stack Web Development (MongoDB, Express, React, Node)
-- 🎥 Create dev content on [YouTube](https://www.youtube.com/@srprogramist)
+- 🎥 Create dev content on [YouTube](https://www.youtube.com/@srprogramist) & [X](https://x.com/SRProgramist)
 - 📸 Share tips and projects on [Instagram](https://www.instagram.com/srprogramist)
 - 📘 Teach junior devs to build & grow in tech
 
