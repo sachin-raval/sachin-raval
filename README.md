@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sachin Raval – MERN Stack Developer & Tech Educator
 
-🚀 I love building real-world web apps using the **MERN stack** and Next.js | teaching others through hands-on tutorials and projects.
+🚀 I love building real-world web apps using the **MERN stack** and Next.js | Teaching others in My Youtube Channel **SR Programist** through hands-on tutorials and projects.
 
 ## 💼 What I Do
 - 🔧 Full-Stack Web Development (MongoDB, Express, React, Node)
